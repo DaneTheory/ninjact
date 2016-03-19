@@ -1,5 +1,6 @@
 # NINJACT
 ## A ReactJS Boilerplate For Ninja Devs
+<img src="https://raw.githubusercontent.com/DaneTheory/ninjact/master/src/public/images/ninjact.png" />
 
 ### Praise Jesus, another boilerplate....
 <p>I get it. I didn't make this to save the world and all of your engineering woes. BUT, what I did do is make something for devs to get started quickly AND new users to start working with. This is as bare bones as it gets. I plan on building on top of this after I feel more confident in a seemless full-stack React workflow.</p>
